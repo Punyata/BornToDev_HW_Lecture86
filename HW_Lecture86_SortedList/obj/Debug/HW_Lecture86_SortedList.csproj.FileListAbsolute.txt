@@ -1,0 +1,14 @@
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\bin\Debug\HW_Lecture86_SortedList.exe.config
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\bin\Debug\HW_Lecture86_SortedList.exe
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\bin\Debug\HW_Lecture86_SortedList.pdb
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList.csprojAssemblyReference.cache
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\MainWindow.g.cs
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\App.g.cs
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList_MarkupCompile.cache
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList_MarkupCompile.lref
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\MainWindow.baml
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList.g.resources
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList.Properties.Resources.resources
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList.csproj.GenerateResource.cache
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList.exe
+D:\Online\Learning_C_Sharp\HW_Lecture86_SortedList\HW_Lecture86_SortedList\obj\Debug\HW_Lecture86_SortedList.pdb
